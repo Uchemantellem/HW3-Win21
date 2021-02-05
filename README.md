@@ -4,7 +4,7 @@ In this homework you will write a Magic 8 ball class.
 
 You will need to clone this repo to your local machine.
 
-git clone
+git clone URL
 
 Add the source to your staging area
 
